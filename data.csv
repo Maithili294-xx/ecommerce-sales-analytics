@@ -1,0 +1,295 @@
+order_id,order_date,quantity,order_amount,customer_name,city,age,signup_date,product_name,category,price
+1,15-02-2025,1,249.99,John Doe,New York,28,15-01-2025,27-inch Monitor,Electronics,249.99
+2,16-02-2025,2,110,David Wilson,Phoenix,31,14-02-2025,Women Denim Jacket,Apparel,55
+3,10-04-2025,1,75,Megan Martin,Jacksonville,27,01-04-2025,Tennis Racket,Sports,75
+4,20-03-2025,1,35,Amanda Thomas,San Diego,26,05-03-2025,Memory Foam Pillow,Home,35
+5,22-02-2025,1,45,Michael Brown,Chicago,45,02-02-2025,Laptop Backpack,Electronics,45
+6,10-05-2025,3,77.97,Daniel Lewis,Denver,29,03-05-2025,Wireless Mouse,Electronics,25.99
+7,25-01-2025,4,31.96,Jane Smith,Los Angeles,34,20-01-2025,HDMI Cable 6ft,Electronics,7.99
+8,20-04-2025,1,21.99,Jessica Garcia,Columbus,30,10-04-2025,Eye Cream,Beauty,21.99
+9,15-03-2025,2,56,James Anderson,San Antonio,40,01-03-2025,Women Yoga Pants,Apparel,28
+10,25-03-2025,2,30,Lisa White,San Jose,37,19-03-2025,Woolen Scarf,Apparel,15
+11,15-06-2025,1,49.99,Mark Hernandez,Oklahoma City,25,01-06-2025,Webcam 1080p,Electronics,49.99
+12,02-07-2025,2,30,Donna Adams,Albuquerque,49,26-06-2025,Matte Lipstick,Beauty,15
+13,20-08-2025,1,34,Timothy Edwards,Oakland,29,15-08-2025,Bath Towel Set,Home,34
+14,05-10-2025,1,59.99,Janet Howard,Lexington,39,12-10-2025,Bluetooth Headphones,Electronics,59.99
+15,02-04-2025,3,26.97,William Harris,Austin,33,22-03-2025,Ceramic Coffee Mug,Home,8.99
+16,20-05-2025,1,16.5,Margaret Hall,El Paso,43,15-05-2025,Cycling Gloves,Sports,16.5
+17,12-02-2025,1,39.99,Emily Davis,Houston,22,10-02-2025,Summer Dress,Apparel,39.99
+18,18-03-2025,2,31.98,Robert Jackson,Dallas,50,12-03-2025,Gaming Mouse Pad,Electronics,15.99
+19,12-04-2025,1,8.99,Richard Thompson,Fort Worth,42,05-04-2025,Aloe Vera Gel,Beauty,8.99
+20,25-06-2025,2,36,Emily Scott,Baltimore,23,19-06-2025,Men Casual T-Shirt,Apparel,18
+21,10-08-2025,1,24.5,Edward Phillips,Raleigh,46,01-08-2025,Sunglasses Polarized,Apparel,24.5
+22,10-09-2025,2,60,Cynthia Rogers,Wichita,51,04-09-2025,Dumbbell Set (5lbs),Sports,30
+23,01-05-2025,1,42,Christopher Clark,Indianapolis,24,22-04-2025,Chef Knife,Home,42
+24,18-06-2025,5,99.95,Kimberly Lopez,Memphis,36,12-06-2025,USB-C Hub,Electronics,19.99
+25,15-07-2025,1,15.99,Kevin Nelson,Sacramento,27,08-07-2025,Digital Kitchen Scale,Home,15.99
+26,01-10-2025,2,79.98,Gary Murphy,Anaheim,56,22-09-2025,Trekking Poles,Sports,39.99
+27,10-11-2025,1,85,Valerie James,Pittsburgh,36,04-11-2025,Running Shoes,Apparel,85
+28,28-11-2025,3,20.97,Theresa Bennett,Newark,42,26-11-2025,Lip Balm (4-pack),Beauty,6.99
+29,28-12-2025,1,89.99,Beverly Powell,Madison,49,26-12-2025,Mechanical Keyboard,Electronics,89.99
+30,22-01-2026,2,39.98,Evan Washington,Reno,28,16-01-2026,Storage Bins (Set of 3),Home,19.99
+31,10-02-2026,1,9.99,Christina Bryant,Norfolk,32,04-02-2026,Microfiber Towel,Sports,9.99
+32,12-03-2026,1,38,Arthur Graham,Santa Clarita,55,10-03-2026,Rain Coat,Apparel,38
+33,25-02-2025,1,69.99,Sarah Martinez,Philadelphia,29,18-02-2025,Wireless Earbuds,Electronics,69.99
+34,22-04-2025,2,25,Joseph Martinez,Charlotte,48,15-04-2025,Smartphone Stand,Electronics,12.5
+35,20-05-2025,1,55,Matthew Walker,Boston,32,12-05-2025,Beard Oil,Beauty,16.5
+36,10-07-2025,2,19,Joshua Baker,Tucson,34,01-07-2025,Body Lotion Cocoa Butter,Beauty,9.5
+37,02-08-2025,4,48,Stephanie Turner,Colorado Springs,26,26-07-2025,Sports Socks (3-pack),Apparel,12
+38,30-08-2025,2,36,Laura Sanchez,Arlington,28,26-08-2025,Smart LED Bulb,Electronics,18
+39,15-09-2025,1,14.5,Amy Cook,Tampa,24,12-09-2025,Swimming Goggles,Sports,14.5
+40,28-10-2025,2,29,Jonathan Peterson,Saint Paul,40,22-10-2025,Indoor Plant Pot,Home,14.5
+41,25-11-2025,1,16.99,Nicole Sanders,Orlando,28,19-11-2025,LED Strip Lights,Home,16.99
+42,24-12-2025,1,32,Martha Jenkins,St. Petersburg,57,19-12-2025,Men Cargo Shorts,Apparel,32
+43,15-01-2026,1,199.99,Jerry Hughes,Lubbock,41,09-01-2026,Smart Watch,Electronics,199.99
+44,18-02-2026,3,44.97,Diana Russell,Garland,26,12-02-2026,Resistance Bands,Sports,14.99
+45,01-03-2025,1,35,John Doe,New York,28,15-01-2025,Power Bank 20000mAh,Electronics,35
+46,10-02-2025,2,32,Jane Smith,Los Angeles,34,20-01-2025,Scented Candle Set,Home,16
+47,05-03-2025,1,14,David Wilson,Phoenix,31,14-02-2025,Clay Face Mask,Beauty,14
+48,01-05-2025,1,19.99,Megan Martin,Jacksonville,27,01-04-2025,Baseball Cap,Apparel,19.99
+49,15-04-2025,1,65,Amanda Thomas,San Diego,26,05-03-2025,Ankle Boots,Apparel,65
+50,20-03-2025,2,39.98,Michael Brown,Chicago,45,02-02-2025,Exfoliating Scrub,Beauty,15.99
+51,01-06-2025,1,12,Daniel Lewis,Denver,29,03-05-2025,Face Mask Pack,Beauty,12
+52,15-06-2025,1,27,Ashley King,Portland,28,04-06-2025,French Press Coffee Maker,Home,27
+53,05-07-2025,1,11.5,Andrew Green,Milwaukee,30,22-06-2025,Charcoal Face Wash,Beauty,11.5
+54,22-08-2025,1,25,Deborah Evans,Omaha,42,12-08-2025,Leather Belt,Apparel,25
+55,15-10-2025,2,15,Helen Richardson,Riverside,43,04-10-2025,Jump Rope,Sports,7.5
+56,25-10-2025,1,24,Angela Torres,Stockton,26,19-10-2025,Moisturizing Cream,Beauty,24
+57,20-11-2025,1,24.99,Brandon Kelly,Plano,33,15-11-2025,Laptop Cooling Pad,Electronics,24.99
+58,15-12-2025,1,18.99,Raymond Ross,Chula Vista,46,08-12-2025,Agility Ladder,Sports,18.99
+59,05-02-2026,2,69.98,Peggy Foster,Winston-Salem,53,27-01-2026,Hoodie Sweatshirt,Apparel,34.99
+60,28-02-2026,1,22,Henry Hayes,Hialeah,50,22-02-2026,Makeup Brush Set,Beauty,22
+61,20-03-2026,2,25.98,Lois Sullivan,Richmond,48,15-03-2026,Desk Organizer,Home,12.99
+62,05-05-2025,1,79.99,Karen Robinson,San Francisco,35,19-04-2025,External Hard Drive,Electronics,79.99
+63,02-06-2025,1,22,Sandra Young,Detroit,47,24-05-2025,Swim Shorts,Apparel,22
+64,28-07-2025,1,38,Brian Mitchell,Kansas City,44,15-07-2025,Waterproof Backpack,Sports,38
+65,12-09-2025,2,64,Jeffrey Morris,New Orleans,48,01-09-2025,Hydration Backpack,Sports,32
+66,28-09-2025,1,39.99,Jacob Morgan,Bakersfield,30,15-09-2025,Ring Light with Stand,Electronics,39.99
+67,18-11-2025,1,49.99,Justin Watson,Greensboro,25,08-11-2025,Men Slim Fit Jeans,Apparel,49.99
+68,12-12-2025,2,37,Christine Barnes,Durham,31,04-12-2025,Vitamin C Serum,Beauty,18.5
+69,10-01-2026,1,18.5,Dennis Long,Chandler,52,02-01-2026,Shower Curtain,Home,18.5
+70,25-01-2026,2,48,Joan Butler,Glendale,44,20-01-2026,Wall Clock,Home,24
+71,25-02-2026,1,39.99,Jean Diaz,Arlington,43,19-02-2026,Sleeping Pad Camping,Sports,35
+72,15-07-2025,1,45,Carol Gonzalez,Fresno,58,04-07-2025,Fitness Tracker Band,Sports,45
+73,12-08-2025,1,29.99,Kathleen Campbell,Miami,33,04-08-2025,Fleece Pajama Set,Apparel,29.99
+74,12-10-2025,1,55,Nicholas Cooper,Santa Ana,27,01-10-2025,Women Denim Jacket,Apparel,55
+75,12-11-2025,3,44.97,Larry Ramirez,St. Louis,47,01-11-2025,Sunscreen SPF 50,Beauty,14.99
+76,05-12-2025,1,39.99,Frank Price,Irvine,50,22-11-2025,Bed Sheet Set (Queen),Home,39.99
+77,20-01-2026,2,39.98,Charlotte Patterson,Buffalo,30,05-01-2026,Foam Roller,Sports,19.99
+78,15-02-2026,1,45,Walter Gonzales,North Las Vegas,47,01-02-2026,Bluetooth Speaker,Electronics,45
+79,18-03-2026,2,45,Jacqueline Hamilton,Fremont,29,05-03-2026,Stainless Steel Water Bottle,Home,22.5
+80,22-05-2025,1,89.99,Betty Lee,Washington,61,07-05-2025,Mechanical Keyboard,Electronics,89.99
+81,01-07-2025,1,45,Paul Hill,Louisville,41,15-06-2025,Canvas Sneakers,Apparel,45
+82,05-08-2025,1,25,Amanda Perez,Atlanta,31,19-07-2025,Yoga Mat,Sports,25
+83,02-09-2025,1,34.99,Jason Stewart,Tulsa,37,22-08-2025,Hair Dryer 1875W,Beauty,34.99
+84,22-10-2025,1,25.99,Eric Cox,Corpus Christi,34,08-10-2025,Wireless Mouse,Electronics,25.99
+85,25-11-2025,2,90,Catherine Brooks,Lincoln,54,12-11-2025,Tablet Stand,Electronics,14.99
+86,02-01-2026,1,26,Jack Perry,Laredo,23,22-12-2025,Shampoo & Conditioner Set,Beauty,26
+87,20-02-2026,1,13.5,Harold Alexander,Chesapeake,62,08-02-2026,Silicone Baking Mats,Home,13.5
+88,15-03-2026,2,36,Carl Ford,Amarillo,31,01-03-2026,Nail Polish Set,Beauty,18
+89,15-05-2025,1,24.99,Richard Thompson,Fort Worth,42,05-04-2025,Cooler Bag Insulated,Sports,24.99
+90,02-07-2025,1,55,Steven Wright,Las Vegas,52,08-06-2025,Perfume Eau de Toilette,Beauty,55
+91,08-08-2025,1,249.99,George Roberts,Long Beach,53,22-07-2025,27-inch Monitor,Electronics,249.99
+92,01-09-2025,1,89.99,Rebecca Collins,Minneapolis,35,19-08-2025,Camping Tent (2-Person),Sports,89.99
+93,30-10-2025,2,159.98,Stephen Ward,Henderson,31,15-10-2025,External Hard Drive,Electronics,79.99
+94,18-12-2025,1,29.99,Gregory Wood,Toledo,38,01-12-2025,Desk Lamp,Home,29.99
+95,29-01-2026,1,14.99,Frances Flores,Scottsdale,59,12-01-2026,Winter Gloves,Apparel,14.99
+96,05-03-2026,2,25,Douglas Griffin,Las Cruces,39,15-02-2026,Hand Cream Trio,Beauty,12.5
+97,12-04-2025,1,18,Lisa White,San Jose,37,19-03-2025,Sports Water Jug,Sports,18
+98,25-05-2025,2,26,Nancy Rodriguez,Seattle,55,01-05-2025,Push Up Bars,Sports,13
+99,30-07-2025,1,19.99,Michelle Carter,Mesa,39,12-07-2025,Wireless Charger Pad,Electronics,19.99
+100,20-09-2025,1,18,Ryan Reed,Cleveland,32,08-09-2025,Men Casual T-Shirt,Apparel,18
+101,15-11-2025,1,119.99,Emily Gray,Cincinnati,29,26-10-2025,Air Purifier,Home,119.99
+102,28-12-2025,1,28,Alice Henderson,Fort Wayne,27,12-12-2025,Throw Blanket,Home,28
+103,12-02-2026,1,29.99,Peter Simmons,Gilbert,36,23-01-2026,Electric Kettle,Home,29.99
+104,10-03-2026,3,59.97,Lori Myers,Boise,35,26-02-2026,USB-C Hub,Electronics,19.99
+105,25-08-2025,1,65,Ronald Parker,Virginia Beach,50,08-08-2025,Electric Toothbrush,Beauty,65
+106,10-10-2025,2,23.98,Shirley Bailey,Honolulu,60,26-09-2025,Running Waist Pack,Sports,11.99
+107,05-01-2026,1,15,Patrick Coleman,Jersey City,35,15-12-2025,Woolen Scarf,Apparel,15
+108,12-06-2025,1,15.99,Anthony Allen,Nashville,38,19-05-2025,Gaming Mouse Pad,Electronics,15.99
+109,01-08-2025,1,12.5,Kevin Nelson,Sacramento,27,08-07-2025,Smartphone Stand,Electronics,12.5
+110,10-03-2025,1,30,Emily Davis,Houston,22,10-02-2025,Dumbbell Set (5lbs),Sports,30
+111,20-06-2025,2,49,Megan Martin,Jacksonville,27,01-04-2025,Sunglasses Polarized,Apparel,24.5
+112,18-05-2025,2,43.98,Amanda Thomas,San Diego,26,05-03-2025,Eye Cream,Beauty,21.99
+113,12-07-2025,1,59.99,Daniel Lewis,Denver,29,03-05-2025,Bluetooth Headphones,Electronics,59.99
+114,25-09-2025,1,85,Timothy Edwards,Oakland,29,15-08-2025,Running Shoes,Apparel,85
+115,02-11-2025,2,39.98,Janet Howard,Lexington,39,12-10-2025,Storage Bins (Set of 3),Home,19.99
+116,15-05-2025,1,34,William Harris,Austin,33,22-03-2025,Bath Towel Set,Home,34
+117,30-06-2025,2,17.98,Margaret Hall,El Paso,43,15-05-2025,Ceramic Coffee Mug,Home,8.99
+118,22-04-2025,1,16.5,Robert Jackson,Dallas,50,12-03-2025,Cycling Gloves,Sports,16.5
+119,01-08-2025,1,39.99,Emily Scott,Baltimore,23,19-06-2025,Summer Dress,Apparel,39.99
+120,19-09-2025,2,31.98,Edward Phillips,Raleigh,46,01-08-2025,Gaming Mouse Pad,Electronics,15.99
+121,10-10-2025,1,8.99,Cynthia Rogers,Wichita,51,04-09-2025,Aloe Vera Gel,Beauty,8.99
+122,15-06-2025,3,54,Christopher Clark,Indianapolis,24,22-04-2025,Men Casual T-Shirt,Apparel,18
+123,28-07-2025,1,24.5,Kimberly Lopez,Memphis,36,12-06-2025,Sunglasses Polarized,Apparel,24.5
+124,01-09-2025,1,30,Kevin Nelson,Sacramento,27,08-07-2025,Dumbbell Set (5lbs),Sports,30
+125,14-11-2025,1,42,Gary Murphy,Anaheim,56,22-09-2025,Chef Knife,Home,42
+126,20-12-2025,2,39.98,Valerie James,Pittsburgh,36,04-11-2025,USB-C Hub,Electronics,19.99
+127,05-01-2026,1,15.99,Theresa Bennett,Newark,42,26-11-2025,Digital Kitchen Scale,Home,15.99
+128,14-02-2026,1,39.99,Beverly Powell,Madison,49,26-12-2025,Trekking Poles,Sports,39.99
+129,28-02-2026,1,85,Evan Washington,Reno,28,16-01-2026,Running Shoes,Apparel,85
+130,10-03-2026,2,13.98,Christina Bryant,Norfolk,32,04-02-2026,Lip Balm (4-pack),Beauty,6.99
+131,29-03-2026,1,89.99,Arthur Graham,Santa Clarita,55,10-03-2026,Mechanical Keyboard,Electronics,89.99
+132,05-04-2025,1,19.99,Sarah Martinez,Philadelphia,29,18-02-2025,Storage Bins (Set of 3),Home,19.99
+133,01-06-2025,3,29.97,Joseph Martinez,Charlotte,48,15-04-2025,Microfiber Towel,Sports,9.99
+134,12-07-2025,1,38,Matthew Walker,Boston,32,12-05-2025,Rain Coat,Apparel,38
+135,25-08-2025,1,69.99,Joshua Baker,Tucson,34,01-07-2025,Wireless Earbuds,Electronics,69.99
+136,12-09-2025,2,25,Stephanie Turner,Colorado Springs,26,26-07-2025,Smartphone Stand,Electronics,12.5
+137,19-10-2025,1,55,Laura Sanchez,Arlington,28,26-08-2025,Beard Oil,Beauty,16.5
+138,05-11-2025,2,19,Amy Cook,Tampa,24,12-09-2025,Body Lotion Cocoa Butter,Beauty,9.5
+139,20-12-2025,1,12,Jonathan Peterson,Saint Paul,40,22-10-2025,Sports Socks (3-pack),Apparel,12
+140,15-01-2026,1,18,Nicole Sanders,Orlando,28,19-11-2025,Smart LED Bulb,Electronics,18
+141,01-02-2026,1,14.5,Martha Jenkins,St. Petersburg,57,19-12-2025,Swimming Goggles,Sports,14.5
+142,22-02-2026,2,29,Jerry Hughes,Lubbock,41,09-01-2026,Indoor Plant Pot,Home,14.5
+143,25-03-2026,1,16.99,Diana Russell,Garland,26,12-02-2026,LED Strip Lights,Home,16.99
+144,12-04-2025,1,32,John Doe,New York,28,15-01-2025,Men Cargo Shorts,Apparel,32
+145,25-03-2025,1,199.99,Jane Smith,Los Angeles,34,20-01-2025,Smart Watch,Electronics,199.99
+146,18-04-2025,2,29.98,David Wilson,Phoenix,31,14-02-2025,Resistance Bands,Sports,14.99
+147,01-07-2025,1,35,Megan Martin,Jacksonville,27,01-04-2025,Power Bank 20000mAh,Electronics,35
+148,10-06-2025,2,32,Amanda Thomas,San Diego,26,05-03-2025,Scented Candle Set,Home,16
+149,02-05-2025,1,14,Michael Brown,Chicago,45,02-02-2025,Clay Face Mask,Beauty,14
+150,29-07-2025,1,19.99,Daniel Lewis,Denver,29,03-05-2025,Baseball Cap,Apparel,19.99
+151,14-08-2025,1,65,Ashley King,Portland,28,04-06-2025,Ankle Boots,Apparel,65
+152,02-09-2025,2,39.98,Andrew Green,Milwaukee,30,22-06-2025,Exfoliating Scrub,Beauty,15.99
+153,18-10-2025,1,12,Deborah Evans,Omaha,42,12-08-2025,Face Mask Pack,Beauty,12
+154,01-12-2025,1,27,Helen Richardson,Riverside,43,04-10-2025,French Press Coffee Maker,Home,27
+155,19-12-2025,1,11.5,Angela Torres,Stockton,26,19-10-2025,Charcoal Face Wash,Beauty,11.5
+156,10-01-2026,1,25,Brandon Kelly,Plano,33,15-11-2025,Leather Belt,Apparel,25
+157,05-02-2026,2,15,Raymond Ross,Chula Vista,46,08-12-2025,Jump Rope,Sports,7.5
+158,12-03-2026,1,24,Peggy Foster,Winston-Salem,53,27-01-2026,Moisturizing Cream,Beauty,24
+159,29-03-2026,1,24.99,Henry Hayes,Hialeah,50,22-02-2026,Laptop Cooling Pad,Electronics,24.99
+160,15-04-2026,1,18.99,Lois Sullivan,Richmond,48,15-03-2026,Agility Ladder,Sports,18.99
+161,02-07-2025,1,34.99,Karen Robinson,San Francisco,35,19-04-2025,Hoodie Sweatshirt,Apparel,34.99
+162,01-08-2025,2,44,Sandra Young,Detroit,47,24-05-2025,Makeup Brush Set,Beauty,22
+163,25-09-2025,1,12.99,Brian Mitchell,Kansas City,44,15-07-2025,Desk Organizer,Home,12.99
+164,05-11-2025,1,79.99,Jeffrey Morris,New Orleans,48,01-09-2025,External Hard Drive,Electronics,79.99
+165,20-11-2025,2,44,Jacob Morgan,Bakersfield,30,15-09-2025,Swim Shorts,Apparel,22
+166,08-01-2026,1,38,Justin Watson,Greensboro,25,08-11-2025,Waterproof Backpack,Sports,38
+167,01-02-2026,1,32,Christine Barnes,Durham,31,04-12-2025,Hydration Backpack,Sports,32
+168,25-02-2026,1,39.99,Dennis Long,Chandler,52,02-01-2026,Ring Light with Stand,Electronics,39.99
+169,19-03-2026,1,49.99,Joan Butler,Glendale,44,20-01-2026,Men Slim Fit Jeans,Apparel,49.99
+170,05-04-2026,2,37,Jean Diaz,Arlington,43,19-02-2026,Vitamin C Serum,Beauty,18.5
+171,02-09-2025,1,18.5,Carol Gonzalez,Fresno,58,04-07-2025,Shower Curtain,Home,18.5
+172,01-10-2025,2,48,Kathleen Campbell,Miami,33,04-08-2025,Wall Clock,Home,24
+173,05-12-2025,1,39.99,Nicholas Cooper,Santa Ana,27,01-10-2025,Sleeping Pad Camping,Sports,35
+174,02-01-2026,1,45,Larry Ramirez,St. Louis,47,01-11-2025,Fitness Tracker Band,Sports,45
+175,28-01-2026,1,29.99,Frank Price,Irvine,50,22-11-2025,Fleece Pajama Set,Apparel,29.99
+176,05-03-2026,1,55,Charlotte Patterson,Buffalo,30,05-01-2026,Women Denim Jacket,Apparel,55
+177,02-04-2026,2,29.98,Walter Gonzales,North Las Vegas,47,01-02-2026,Sunscreen SPF 50,Beauty,14.99
+178,01-05-2026,1,39.99,Jacqueline Hamilton,Fremont,29,05-03-2026,Bed Sheet Set (Queen),Home,39.99
+179,15-07-2025,2,39.98,Betty Lee,Washington,61,07-05-2025,Foam Roller,Sports,19.99
+180,01-09-2025,1,45,Paul Hill,Louisville,41,15-06-2025,Bluetooth Speaker,Electronics,45
+181,10-10-2025,2,45,Amanda Perez,Atlanta,31,19-07-2025,Stainless Steel Water Bottle,Home,22.5
+182,12-11-2025,1,89.99,Jason Stewart,Tulsa,37,22-08-2025,Mechanical Keyboard,Electronics,89.99
+183,29-12-2025,1,45,Eric Cox,Corpus Christi,34,08-10-2025,Canvas Sneakers,Apparel,45
+184,25-01-2026,1,25,Catherine Brooks,Lincoln,54,12-11-2025,Yoga Mat,Sports,25
+185,02-03-2026,1,34.99,Jack Perry,Laredo,23,22-12-2025,Hair Dryer 1875W,Beauty,34.99
+186,20-04-2026,2,51.98,Harold Alexander,Chesapeake,62,08-02-2026,Wireless Mouse,Electronics,25.99
+187,10-05-2026,1,45,Carl Ford,Amarillo,31,01-03-2026,Tablet Stand,Electronics,14.99
+188,10-07-2025,1,26,Richard Thompson,Fort Worth,42,05-04-2025,Shampoo & Conditioner Set,Beauty,26
+189,05-09-2025,1,13.5,Steven Wright,Las Vegas,52,08-06-2025,Silicone Baking Mats,Home,13.5
+190,15-10-2025,2,36,George Roberts,Long Beach,53,22-07-2025,Nail Polish Set,Beauty,18
+191,01-11-2025,1,24.99,Rebecca Collins,Minneapolis,35,19-08-2025,Cooler Bag Insulated,Sports,24.99
+192,25-12-2025,1,55,Stephen Ward,Henderson,31,15-10-2025,Perfume Eau de Toilette,Beauty,55
+193,10-02-2026,1,249.99,Gregory Wood,Toledo,38,01-12-2025,27-inch Monitor,Electronics,249.99
+194,15-03-2026,1,89.99,Frances Flores,Scottsdale,59,12-01-2026,Camping Tent (2-Person),Sports,89.99
+195,05-05-2026,1,79.99,Douglas Griffin,Las Cruces,39,15-02-2026,External Hard Drive,Electronics,79.99
+196,18-06-2025,1,29.99,Lisa White,San Jose,37,19-03-2025,Desk Lamp,Home,29.99
+197,22-07-2025,1,14.99,Nancy Rodriguez,Seattle,55,01-05-2025,Winter Gloves,Apparel,14.99
+198,30-09-2025,2,25,Michelle Carter,Mesa,39,12-07-2025,Hand Cream Trio,Beauty,12.5
+199,15-11-2025,1,18,Ryan Reed,Cleveland,32,08-09-2025,Sports Water Jug,Sports,18
+200,12-01-2026,2,26,Emily Gray,Cincinnati,29,26-10-2025,Push Up Bars,Sports,13
+201,28-02-2026,1,19.99,Alice Henderson,Fort Wayne,27,12-12-2025,Wireless Charger Pad,Electronics,19.99
+202,10-04-2026,1,18,Peter Simmons,Gilbert,36,23-01-2026,Men Casual T-Shirt,Apparel,18
+203,15-05-2026,1,119.99,Lori Myers,Boise,35,26-02-2026,Air Purifier,Home,119.99
+204,01-11-2025,1,28,Ronald Parker,Virginia Beach,50,08-08-2025,Throw Blanket,Home,28
+205,20-12-2025,1,29.99,Shirley Bailey,Honolulu,60,26-09-2025,Electric Kettle,Home,29.99
+206,01-03-2026,3,59.97,Patrick Coleman,Jersey City,35,15-12-2025,USB-C Hub,Electronics,19.99
+207,15-08-2025,1,65,Anthony Allen,Nashville,38,19-05-2025,Electric Toothbrush,Beauty,65
+208,02-10-2025,2,23.98,Kevin Nelson,Sacramento,27,08-07-2025,Running Waist Pack,Sports,11.99
+209,12-05-2025,2,30,Emily Davis,Houston,22,10-02-2025,Woolen Scarf,Apparel,15
+210,22-08-2025,1,15.99,Megan Martin,Jacksonville,27,01-04-2025,Gaming Mouse Pad,Electronics,15.99
+211,15-07-2025,1,8.99,Amanda Thomas,San Diego,26,05-03-2025,Aloe Vera Gel,Beauty,8.99
+212,10-09-2025,2,36,Daniel Lewis,Denver,29,03-05-2025,Men Casual T-Shirt,Apparel,18
+213,30-11-2025,1,24.5,Timothy Edwards,Oakland,29,15-08-2025,Sunglasses Polarized,Apparel,24.5
+214,12-01-2026,1,30,Janet Howard,Lexington,39,12-10-2025,Dumbbell Set (5lbs),Sports,30
+215,20-07-2025,1,42,William Harris,Austin,33,22-03-2025,Chef Knife,Home,42
+216,15-08-2025,3,59.97,Margaret Hall,El Paso,43,15-05-2025,USB-C Hub,Electronics,19.99
+217,25-06-2025,1,15.99,Robert Jackson,Dallas,50,12-03-2025,Digital Kitchen Scale,Home,15.99
+218,05-10-2025,1,39.99,Emily Scott,Baltimore,23,19-06-2025,Trekking Poles,Sports,39.99
+219,22-11-2025,1,85,Edward Phillips,Raleigh,46,01-08-2025,Running Shoes,Apparel,85
+220,15-12-2025,2,13.98,Cynthia Rogers,Wichita,51,04-09-2025,Lip Balm (4-pack),Beauty,6.99
+221,20-08-2025,1,89.99,Christopher Clark,Indianapolis,24,22-04-2025,Mechanical Keyboard,Electronics,89.99
+222,28-09-2025,2,39.98,Kimberly Lopez,Memphis,36,12-06-2025,Storage Bins (Set of 3),Home,19.99
+223,02-11-2025,1,9.99,Kevin Nelson,Sacramento,27,08-07-2025,Microfiber Towel,Sports,9.99
+224,25-12-2025,1,38,Gary Murphy,Anaheim,56,22-09-2025,Rain Coat,Apparel,38
+225,10-02-2026,1,69.99,Valerie James,Pittsburgh,36,04-11-2025,Wireless Earbuds,Electronics,69.99
+226,01-03-2026,2,25,Theresa Bennett,Newark,42,26-11-2025,Smartphone Stand,Electronics,12.5
+227,14-04-2026,1,55,Beverly Powell,Madison,49,26-12-2025,Beard Oil,Beauty,16.5
+228,30-04-2026,2,19,Evan Washington,Reno,28,16-01-2026,Body Lotion Cocoa Butter,Beauty,9.5
+229,10-05-2026,1,12,Christina Bryant,Norfolk,32,04-02-2026,Sports Socks (3-pack),Apparel,12
+230,29-05-2026,1,18,Arthur Graham,Santa Clarita,55,10-03-2026,Smart LED Bulb,Electronics,18
+231,15-06-2025,1,14.5,Sarah Martinez,Philadelphia,29,18-02-2025,Swimming Goggles,Sports,14.5
+232,12-08-2025,2,29,Joseph Martinez,Charlotte,48,15-04-2025,Indoor Plant Pot,Home,14.5
+233,22-09-2025,1,16.99,Matthew Walker,Boston,32,12-05-2025,LED Strip Lights,Home,16.99
+234,05-11-2025,1,32,Joshua Baker,Tucson,34,01-07-2025,Men Cargo Shorts,Apparel,32
+235,12-11-2025,1,199.99,Stephanie Turner,Colorado Springs,26,26-07-2025,Smart Watch,Electronics,199.99
+236,19-12-2025,3,44.97,Laura Sanchez,Arlington,28,26-08-2025,Resistance Bands,Sports,14.99
+237,05-01-2026,1,32,Amy Cook,Tampa,24,12-09-2025,Men Cargo Shorts,Apparel,32
+238,20-02-2026,1,199.99,Jonathan Peterson,Saint Paul,40,22-10-2025,Smart Watch,Electronics,199.99
+239,25-03-2026,2,29.98,Nicole Sanders,Orlando,28,19-11-2025,Resistance Bands,Sports,14.99
+240,01-04-2026,1,35,Martha Jenkins,St. Petersburg,57,19-12-2025,Power Bank 20000mAh,Electronics,35
+241,22-04-2026,1,16,Jerry Hughes,Lubbock,41,09-01-2026,Scented Candle Set,Home,16
+242,18-05-2026,1,14,Diana Russell,Garland,26,12-02-2026,Clay Face Mask,Beauty,14
+243,12-06-2025,1,19.99,John Doe,New York,28,15-01-2025,Baseball Cap,Apparel,19.99
+244,25-05-2025,1,65,Jane Smith,Los Angeles,34,20-01-2025,Ankle Boots,Apparel,65
+245,18-06-2025,2,39.98,David Wilson,Phoenix,31,14-02-2025,Exfoliating Scrub,Beauty,15.99
+246,01-09-2025,1,12,Megan Martin,Jacksonville,27,01-04-2025,Face Mask Pack,Beauty,12
+247,10-08-2025,1,27,Amanda Thomas,San Diego,26,05-03-2025,French Press Coffee Maker,Home,27
+248,02-07-2025,1,11.5,Michael Brown,Chicago,45,02-02-2025,Charcoal Face Wash,Beauty,11.5
+249,29-09-2025,1,25,Daniel Lewis,Denver,29,03-05-2025,Leather Belt,Apparel,25
+250,14-10-2025,2,15,Ashley King,Portland,28,04-06-2025,Jump Rope,Sports,7.5
+251,02-11-2025,1,24,Andrew Green,Milwaukee,30,22-06-2025,Moisturizing Cream,Beauty,24
+252,18-12-2025,1,24.99,Deborah Evans,Omaha,42,12-08-2025,Laptop Cooling Pad,Electronics,24.99
+253,01-02-2026,1,18.99,Helen Richardson,Riverside,43,04-10-2025,Agility Ladder,Sports,18.99
+254,19-02-2026,2,69.98,Angela Torres,Stockton,26,19-10-2025,Hoodie Sweatshirt,Apparel,34.99
+255,10-03-2026,1,22,Brandon Kelly,Plano,33,15-11-2025,Makeup Brush Set,Beauty,22
+256,05-04-2026,2,25.98,Raymond Ross,Chula Vista,46,08-12-2025,Desk Organizer,Home,12.99
+257,12-05-2026,1,79.99,Peggy Foster,Winston-Salem,53,27-01-2026,External Hard Drive,Electronics,79.99
+258,29-05-2026,1,22,Henry Hayes,Hialeah,50,22-02-2026,Swim Shorts,Apparel,22
+259,15-06-2026,1,38,Lois Sullivan,Richmond,48,15-03-2026,Waterproof Backpack,Sports,38
+260,02-09-2025,2,64,Karen Robinson,San Francisco,35,19-04-2025,Hydration Backpack,Sports,32
+261,01-10-2025,1,39.99,Sandra Young,Detroit,47,24-05-2025,Ring Light with Stand,Electronics,39.99
+262,25-11-2025,1,49.99,Brian Mitchell,Kansas City,44,15-07-2025,Men Slim Fit Jeans,Apparel,49.99
+263,05-01-2026,2,37,Jeffrey Morris,New Orleans,48,01-09-2025,Vitamin C Serum,Beauty,18.5
+264,20-01-2026,1,18.5,Jacob Morgan,Bakersfield,30,15-09-2025,Shower Curtain,Home,18.5
+265,08-03-2026,2,48,Justin Watson,Greensboro,25,08-11-2025,Wall Clock,Home,24
+266,01-04-2026,1,39.99,Christine Barnes,Durham,31,04-12-2025,Sleeping Pad Camping,Sports,35
+267,25-04-2026,1,45,Dennis Long,Chandler,52,02-01-2026,Fitness Tracker Band,Sports,45
+268,19-05-2026,1,29.99,Joan Butler,Glendale,44,20-01-2026,Fleece Pajama Set,Apparel,29.99
+269,05-06-2026,1,55,Jean Diaz,Arlington,43,19-02-2026,Women Denim Jacket,Apparel,55
+270,02-11-2025,2,29.98,Carol Gonzalez,Fresno,58,04-07-2025,Sunscreen SPF 50,Beauty,14.99
+271,01-12-2025,1,39.99,Kathleen Campbell,Miami,33,04-08-2025,Bed Sheet Set (Queen),Home,39.99
+272,05-02-2026,2,39.98,Nicholas Cooper,Santa Ana,27,01-10-2025,Foam Roller,Sports,19.99
+273,02-03-2026,1,45,Larry Ramirez,St. Louis,47,01-11-2025,Bluetooth Speaker,Electronics,45
+274,28-03-2026,2,45,Frank Price,Irvine,50,22-11-2025,Stainless Steel Water Bottle,Home,22.5
+275,05-05-2026,1,89.99,Charlotte Patterson,Buffalo,30,05-01-2026,Mechanical Keyboard,Electronics,89.99
+276,02-06-2026,1,45,Walter Gonzales,North Las Vegas,47,01-02-2026,Canvas Sneakers,Apparel,45
+277,01-07-2026,1,25,Jacqueline Hamilton,Fremont,29,05-03-2026,Yoga Mat,Sports,25
+278,15-09-2025,1,34.99,Betty Lee,Washington,61,07-05-2025,Hair Dryer 1875W,Beauty,34.99
+279,01-11-2025,1,25.99,Paul Hill,Louisville,41,15-06-2025,Wireless Mouse,Electronics,25.99
+280,10-12-2025,2,90,Amanda Perez,Atlanta,31,19-07-2025,Tablet Stand,Electronics,14.99
+281,12-01-2026,1,26,Jason Stewart,Tulsa,37,22-08-2025,Shampoo & Conditioner Set,Beauty,26
+282,28-02-2026,1,13.5,Eric Cox,Corpus Christi,34,08-10-2025,Silicone Baking Mats,Home,13.5
+283,25-03-2026,2,36,Catherine Brooks,Lincoln,54,12-11-2025,Nail Polish Set,Beauty,18
+284,02-05-2026,1,24.99,Jack Perry,Laredo,23,22-12-2025,Cooler Bag Insulated,Sports,24.99
+285,20-06-2026,1,55,Harold Alexander,Chesapeake,62,08-02-2026,Perfume Eau de Toilette,Beauty,55
+286,10-07-2026,1,249.99,Carl Ford,Amarillo,31,01-03-2026,27-inch Monitor,Electronics,249.99
+287,10-09-2025,1,89.99,Richard Thompson,Fort Worth,42,05-04-2025,Camping Tent (2-Person),Sports,89.99
+288,05-11-2025,1,79.99,Steven Wright,Las Vegas,52,08-06-2025,External Hard Drive,Electronics,79.99
+289,15-12-2025,1,29.99,George Roberts,Long Beach,53,22-07-2025,Desk Lamp,Home,29.99
+290,01-01-2026,1,14.99,Rebecca Collins,Minneapolis,35,19-08-2025,Winter Gloves,Apparel,14.99
+291,25-02-2026,2,25,Stephen Ward,Henderson,31,15-10-2025,Hand Cream Trio,Beauty,12.5
+292,10-04-2026,1,18,Gregory Wood,Toledo,38,01-12-2025,Sports Water Jug,Sports,18
+293,15-05-2026,2,26,Frances Flores,Scottsdale,59,12-01-2026,Push Up Bars,Sports,13
+294,05-07-2026,1,19.99,Douglas Griffin,Las Cruces,39,15-02-2026,Wireless Charger Pad,Electronics,19.99
